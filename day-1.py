@@ -27,9 +27,3 @@ for idx in range(len(leftList)):
 
 print("Total distance: ")
 print(dist)
-
-
-# print("Left list: ")
-# print(leftList)
-# print("Right list: ")
-# print(rightList)
